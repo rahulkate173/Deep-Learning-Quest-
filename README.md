@@ -39,6 +39,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, feel free to contact me at [your-email@example.com].
+For any questions or feedback, feel free to contact me at [rahulkate173@gmail.com].
 
 Happy Learning!
